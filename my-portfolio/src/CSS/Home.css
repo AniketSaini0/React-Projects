@@ -1,0 +1,17 @@
+.home-container{
+    width: 95% !important;
+    margin: 0 auto !important; /* Center horizontally */
+    padding: 30px 0;
+}
+h1{
+    font-size:400%;
+    color: #fe9232;
+}
+
+button{
+    background-color: rgba(0, 157, 255, 0.877);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    border: none;
+}

@@ -1,0 +1,33 @@
+/* Navbar container styling */
+.navbar {
+    background-color: #23262f !important;
+    color: #ff7700 !important;
+    font-weight: bold !important;
+    box-shadow: none;
+    width: 95% !important;
+    margin: 30px auto !important; /* Center horizontally */
+    border-radius: 12px;
+  }
+  
+  /* Typography for the brand title */
+  .navbar-title {
+    flex-grow: 1;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  /* Link styling */
+  .navbar-link {
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    color: #ff7700;
+    text-decoration: none;
+  }
+  
+  /* Button styling */
+  .navbar-button {
+    margin: 20px;
+    padding: 2px;
+    color: inherit; /* Inherits the color from navbar-link */
+  }
+  
